@@ -7,7 +7,7 @@ class App extends Component {
 			<View>
 				<Text>App</Text>
 			</View>
-		)
+		);
 	}
 }
 
